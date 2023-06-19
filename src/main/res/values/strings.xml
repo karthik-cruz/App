@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Assistant</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="retype_password">Retype Password</string>
+</resources>
